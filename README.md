@@ -1,8 +1,5 @@
 # Ecommerce
 
-## 📌 Live Demo
-https://shopzy-ecommerce.onrender.com
-
 ## 😎 Features
 
 - Beauty UI similar to ecommerce website
